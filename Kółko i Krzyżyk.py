@@ -43,4 +43,4 @@ def czyJestZwycięstwo(pl, li):
     (pl[4] == li and pl[5] == li and pl[6] == li) or\
     (pl[1] == li and pl[2] == li and pl[3] == li) or\
     (pl[7] == li and pl[4] == li and pl[1] == li) or\
-    ()jghj
+    ()
